@@ -13,6 +13,11 @@
   Clone, <code>npm run dev</code>, and see it live
 </p>
 
+
+<p align="center">
+  [![GitHub stars](https://img.shields.io/github/stars/build-with-surf/dashboard-template?style=flat-square)](https://github.com/build-with-surf/dashboard-template/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+</p>
+
 ---
 
 ## Features
